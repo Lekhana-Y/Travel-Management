@@ -1,0 +1,69 @@
+.payment__section {
+  background: #f7f9fb !important;
+  padding: 60px 0 !important;
+}
+
+.heading__main {
+  font-size: 2.2rem !important;
+  font-weight: 700 !important;
+  color: var(--heading-color) !important;
+  font-family: var(--font-name);
+}
+
+.feature__card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: #fff !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05) !important;
+  padding: 20px !important;
+  border: 1px solid #f1f1f1;
+}
+
+.feature__card:hover {
+  transform: translateY(-8px) !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12) !important;
+}
+
+.feature__card h5 {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  color: var(--primary-color) !important;
+  margin-bottom: 10px !important;
+  font-family: var(--font-name);
+}
+
+.feature__card p {
+  font-size: 0.95rem !important;
+  color: var(--text-color) !important;
+  font-family: var(--font-name);
+}
+
+.pay__btn {
+  background-color: var(--primary-color) !important;
+  color: #fff !important;
+  border: none !important;
+  font-weight: 600 !important;
+  padding: 12px 32px !important;
+  font-size: 1rem !important;
+  border-radius: 50px !important;
+  transition: background-color 0.3s ease;
+}
+
+.pay__btn:hover {
+  background-color: var(--secondary-color) !important;
+}
+
+.home__btn {
+  background-color: var(--secondary-color) !important;
+  color: #fff !important;
+  border: none !important;
+  font-weight: 600 !important;
+  padding: 12px 32px !important;
+  font-size: 1rem !important;
+  border-radius: 50px !important;
+  transition: background-color 0.3s ease;
+}
+
+.home__btn:hover {
+  background-color: var(--primary-color) !important;
+}
