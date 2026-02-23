@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack Tour Management Application
 
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application for managing tours, bookings, user authentication, reviews, and more.
@@ -84,3 +85,6 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application for man
 ![subscribe](https://github.com/user-attachments/assets/73fc9b01-be84-4ebd-b9b1-6799273d8a83)
 ![main](https://github.com/user-attachments/assets/b69fd3aa-27b3-43eb-8203-3f852e785c8e)
 
+=======
+# Travel-Management
+>>>>>>> d5f4d53f4f594e05ca8853843d71e4c445f2a9c0
